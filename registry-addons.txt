@@ -1,3 +1,3 @@
 ;plugins
-https://github.com/THWLF/CudaText-registry/blob/master/IceWolf.zip
-https://github.com/THWLF/CudaText-registry/blob/master/Monakai.zip
+https://github.com/THWLF/CudaText-registry/blob/master/IceWolf.zip?raw=true
+https://github.com/THWLF/CudaText-registry/blob/master/Monakai.zip?raw=true
