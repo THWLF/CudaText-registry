@@ -1,3 +1,3 @@
 ;plugins
-https://github.com/THWLF/CudaText-registry/blob/master/IceWolf.zip?raw=true Is an Blueish Theme 
-https://github.com/THWLF/CudaText-registry/blob/master/Monakai.zip?raw=true Is an Port of the famous Monokai Theme
+https://raw.githubusercontent.com/THWLF/CudaText-registry/blob/master/IceWolf.zip?raw=true Is an Blueish Theme 
+https://raw.githubusercontent.com/THWLF/CudaText-registry/blob/master/Monakai.zip?raw=true Is an Port of the famous Monokai Theme
